@@ -48,7 +48,7 @@ http://13.200.39.252:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
-<id>snapshot</id>
+<id>snapshots</id>
 <url>
 http://13.200.39.252:8081/repository/snapshot/
 </url>
